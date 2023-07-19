@@ -1,0 +1,29 @@
+/* .txt-center{
+ text-align: center;
+} */
+
+.image-profile{
+    width: 150px;
+    border: 2px solid;
+}
+
+.border-cv{
+    border:3px solid;
+}
+
+/* body{
+    margin-top: auto;
+    margin-left: 40px;
+} */
+
+/* .container {
+    display: grid; 
+    grid-template-columns: 1fr 1fr; 
+    grid-template-rows: 1fr 1fr 1fr; 
+    gap: 0px 0px; 
+    grid-template-areas: 
+      "infopersonal ."
+      "infopersonal ."
+      ". ."; 
+  }
+  .infopersonal { grid-area: infopersonal; } */
